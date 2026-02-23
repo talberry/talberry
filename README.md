@@ -4,7 +4,7 @@ I’m a student passionate about software engineering, always eager to learn and
 
 ## 🚀 Projects & Highlights
 
-- Contributed a deployed MCP server to the [@descope/ai](https://github.com/descope/ai) repo.
+- Contributed a [deployed MCP server](https://github.com/talberry/ai/tree/main/examples/aws-mcp-server) to the [@descope/ai](https://github.com/descope/ai) repo.
 - Building an education platform at [aztec-assess](https://github.com/adaptive-testers/aztec-assess/).
 - Created and maintain [reflex-descope-auth](https://github.com/descope-sample-apps/reflex-descope-auth)—one of my favorite projects!
 - Experimenting with [link-a-doodle](https://github.com/talberry/link-a-doodle).
